@@ -1,0 +1,35 @@
+java -ea amazons.Main
+manual Black
+
+d10-d9(e9)
+dump
+
+d1-e4(e5)
+dump
+
+d1-d4(g5)
+dump
+
+a4-a7(b7)
+dump
+j4-j8(i8)
+dump
+
+d1-d3(d10)
+dump
+d1-a1(a5)
+dump
+
+g1-g6(d9)
+dump
+d10-d9(c9)
+dump
+d10-d2(c2)
+dump
+
+d10-e9(d9)
+dump
+g10-g9(a9)
+dump
+
+quit
